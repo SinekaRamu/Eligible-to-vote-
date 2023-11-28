@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.spacing {
+    margin: 20px;
+    display: flexbox;
+}
+
+.elgible {
+    color: green;
+}
+
+.nelgible {
+    color: red;
+}
